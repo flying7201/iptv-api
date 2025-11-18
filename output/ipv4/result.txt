@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-18 18:18:27,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
+2025-11-19 06:14:54,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 
 📺央视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
@@ -58,8 +58,8 @@
 ☘️陕西频道,#genre#
 
 ☘️福建频道,#genre#
-福建新闻,http://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
 福建新闻,https://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
+福建新闻,http://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
 
 ☘️海南频道,#genre#
 海南新闻,http://satellitepull.cnr.cn/live/wxhainxwgb/playlist.m3u8
@@ -110,8 +110,8 @@
 Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.253.40
 三立台湾,https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40
 三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
-东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
+东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
 靖天资讯,https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40
