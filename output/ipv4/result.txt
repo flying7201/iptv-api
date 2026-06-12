@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-12 07:17:35,http://198.204.240.250:82/live/cctv6.m3u8
+2026-06-12 20:51:07,http://198.204.240.250:82/live/cctv6.m3u8
 
 📺央视频道,#genre#
 CCTV-6,http://198.204.240.250:82/live/cctv6.m3u8
@@ -19,8 +19,8 @@ CCTV-6,http://198.204.240.250:82/live/cctv6.m3u8
 ☘️浙江频道,#genre#
 
 ☘️北京频道,#genre#
-北京新闻,http://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
+北京新闻,http://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 
 ☘️上海频道,#genre#
 
